@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+grpcio
+grpcio-tools
+httpx  # optional if you're calling Qdrant via HTTP
